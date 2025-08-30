@@ -1,0 +1,36 @@
+{
+  "name": "flowsync-landing-test",
+  "version": "1.0.0",
+  "description": "FlowSync Landing Page - Junior Developer Test Project",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "landing-page",
+    "saas",
+    "html",
+    "css",
+    "javascript",
+    "test-project"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "chokidar": "^3.5.3",
+    "mime-types": "^2.1.35"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
