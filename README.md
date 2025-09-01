@@ -1,6 +1,6 @@
 # FlowSync Landing Page
 
-A modern, responsive landing page for FlowSync - Junior Developer Test Project.
+A modern, responsive landing page for FlowSync
 
 ## Features
 
